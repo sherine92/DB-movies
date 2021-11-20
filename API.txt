@@ -1,0 +1,3 @@
+https://api.themoviedb.org/3/trending/tv/day?api_key=52bbcddeda849047525b51d6f8a12361
+
+imgPath=https://image.tmdb.org/t/p/original
